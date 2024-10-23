@@ -16,6 +16,9 @@
  var jav=java.split(" ");
 var jav1=jav.slice(0,2);
 console.log(jav1);//[ 'i', 'love' ]
+var url ="https://fakestoreapi.com/products";
+console.log(url.split("/"));
+
 
  
  
