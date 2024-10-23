@@ -1,2 +1,2 @@
  var fruits =["apple", "banana","orange"];
- fruits.join();
+ console.log(fruits.join());
